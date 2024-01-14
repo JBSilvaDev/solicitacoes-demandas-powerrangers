@@ -1,8 +1,8 @@
-# PowerApps - Aplicativo Registro de Não Conformidades
+# Power Rangers Demandas App
 
 ## Visão Geral
 
-Este aplicativo PowerApps foi projetado para atender às necessidades específicas do setor logístico, focando especialmente na equipe de recebimento. Sua responsividade permite fácil utilização em diversos dispositivos, garantindo praticidade e eficiência.
+Power Rangers Demandas App! Este aplicativo, desenvolvido no PowerApps, foi projetado para facilitar a criação, acompanhamento e conclusão de demandas direcionadas à equipe "Power Rangers". Agora você pode ter um controle mais eficiente sobre as solicitações e garantir que cada missão seja concluída com sucesso.
 
 ## Aviso DEV
 
@@ -10,15 +10,12 @@ Para integrar este modelo ao seu projeto, é crucial estabelecer uma conexão co
 
 ## Funcionalidades Principais
 
-1. **Responsividade:**
-   - O aplicativo é desenvolvido para operar eficientemente em diferentes dispositivos, incluindo smartphones, tablets e desktops.
+1. Criação de Demandas: Crie novas demandas de forma fácil e rápida, especificando os detalhes e requisitos necessários para a tarefa.
 
-2. **Leitor de Código de Barras:**
-   - Integra um leitor de código de barras para facilitar a identificação e rastreamento de produtos.
+2. Acompanhamento em Tempo Real: Acompanhe o progresso das demandas em tempo real. Saiba em que etapa cada solicitação se encontra e quais membros da equipe estão atribuídos a ela.
 
-3. **Registro de Avarias e Não Conformidades:**
-   - Permite que usuários da equipe logística no setor de recebimento registrem avarias ou não conformidades em produtos provenientes da produção.
-   - Oferece campos específicos para detalhar a natureza da avaria e documentar informações relevantes.
+3. Histórico de Atividades: Visualize um histórico completo de atividades relacionadas a cada demanda, permitindo uma auditoria detalhada do processo.
+
 
 ## Como Usar
 
